@@ -1,7 +1,6 @@
 # br-phone-formatter
 
 A simple utility to parse and format Brazilian phone numbers.  
-Works in JavaScript and TypeScript.
 
 ## Installation
 
